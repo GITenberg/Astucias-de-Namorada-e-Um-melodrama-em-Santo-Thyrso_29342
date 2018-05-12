@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33861
     wikipedia: http://pt.wikipedia.org/wiki/Manuel_Joaquim_Pinheiro_Chagas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29342#Astucias-de-Namorada-e-Um-melodrama-em-Santo-Thyrso
 gutenberg_issued: '2009-07-07'
 gutenberg_type: Text
 identifiers:
