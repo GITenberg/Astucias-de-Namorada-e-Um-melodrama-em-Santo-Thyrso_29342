@@ -1,0 +1,30 @@
+_repo: Astucias-de-Namorada-e-Um-melodrama-em-Santo-Thyrso_29342
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chagas, Manuel Pinheiro
+    aliases:
+    - Pinheiro Chagas, Manuel Joaquim
+    - Chagas, M. Pinheiro
+    - Chagas, Pinheiro
+    birthdate: 1842
+    deathdate: 1895
+    gutenberg_agent_id: '33861'
+    url: http://www.gutenberg.org/2009/agents/33861
+    wikipedia: http://pt.wikipedia.org/wiki/Manuel_Joaquim_Pinheiro_Chagas
+description: ''
+gutenberg_issued: '2009-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29342'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+title: Astucias de Namorada, e Um melodrama em Santo Thyrso
+url: http://www.gutenberg.org/ebooks/29342
